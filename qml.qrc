@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/main.qml</file>
+        <file>Image/AnalogClock.png</file>
+        <file>Resource/Lock.qml</file>
+        <file>Resource/Bell.qml</file>
+        <file>Image/Ring.jpg</file>
+        <file>Resource/Hour.qml</file>
+        <file>Resource/Minute.qml</file>
+        <file>Resource/Second.qml</file>
+    </qresource>
+</RCC>
